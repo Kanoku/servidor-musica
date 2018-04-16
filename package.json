@@ -1,0 +1,27 @@
+{
+  "name": "servidor-musica",
+  "version": "1.0.0",
+  "description": "Servidor jnode para reproducir y descargar música",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanoku/servidor-musica.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "music-server"
+  ],
+  "author": "@Kanoku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kanoku/servidor-musica/issues"
+  },
+  "homepage": "https://github.com/Kanoku/servidor-musica#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
